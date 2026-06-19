@@ -4,4 +4,5 @@
 <img width="608" height="257" alt="image" src="https://github.com/user-attachments/assets/2eeb54e8-e618-4303-b5e4-908cda627742" />
 <img width="755" height="417" alt="image" src="https://github.com/user-attachments/assets/4285f939-96b5-49be-a9fc-79a1aefc4d7a" />
 <img width="867" height="300" alt="image" src="https://github.com/user-attachments/assets/bf800fd5-1286-4bf7-bcb4-fab93d6fee83" />
-
+<p>I've finished 18 videos about helpdesk topic of 7net channel</p>
+<img width="1522" height="821" alt="image" src="https://github.com/user-attachments/assets/9690fde3-7462-4876-a5e0-4401aba0e3e6" />
